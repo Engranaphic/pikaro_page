@@ -1,1 +1,1 @@
-const a="/pikaro_page/assets/imagen.37d4a644.webp";export{a as _};
+const s="/assets/imagen.37d4a644.webp";export{s as _};
